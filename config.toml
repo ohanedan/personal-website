@@ -27,7 +27,7 @@ showSkills = false
 [params.google]
 
 [params.google.analytics]
-trackerID = "UA-83979019-1"
+trackerID = "UA-90123434-4"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/ozanhanedan/"
