@@ -1,6 +1,6 @@
 title = "Ozan Hanedan"
 baseURL = "https://ozanhanedan.com.tr/"
-theme = "resume"
+theme = "resume-ohanedan"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
