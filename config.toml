@@ -20,7 +20,7 @@ showExperience = true
 showOpenSource = false
 showProjects = false
 showPublications = false
-showBlog = true
+showBlog = false
 showQr = false
 showSkills = false
 
