@@ -9,6 +9,7 @@ enableGitInfo = false
 
 [params]
 address = ""
+emailText = "contact with me"
 email = "oznhndn@gmail.com"
 favicon = ""
 firstName = "Ozan"
