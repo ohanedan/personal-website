@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Software Developer and Student of Electrical and Electronics Engineering
+Software Developer and Electrical and Electronics Engineer
