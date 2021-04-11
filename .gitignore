@@ -1,1 +1,7 @@
 .DS_store
+/public/
+/resources/_gen/
+hugo_stats.json
+hugo.exe
+hugo.darwin
+hugo.linux
