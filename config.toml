@@ -105,4 +105,4 @@ googleAnalytics                 = "UA-90123434-4"                     # https://
         title            = "Ozan Hanedan"
         [languages.en.params]
             description  = "Personal website"   # Max 160 characters show in search results
-            footerText   = "This website available on Github: https://github.com/ohanedan/personal-website"                      # Text to override default footer text (markdown allowed)
+            footerText   = "This website available on [GitHub](https://github.com/ohanedan/personal-website), 2021"                      # Text to override default footer text (markdown allowed)
