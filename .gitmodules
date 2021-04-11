@@ -1,3 +1,3 @@
-[submodule "themes/resume-ohanedan"]
-	path = themes/resume-ohanedan
-	url = https://github.com/ohanedan/hugo-resume.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
