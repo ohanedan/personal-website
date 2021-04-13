@@ -1,12 +1,14 @@
 <div class="contact">
-    <form action="{{ .Get 0 }}" method="POST">
+    <form name="contactForm" action="{{ .Get 0 }}" method="POST">
 
         <input type="text" id="fname" name="name" placeholder="Your Name">
         <input type="email" id="femail" name="email" placeholder="Your E-Mail Address">
         <textarea id="fmessage" name="message" placeholder="Message" style="height:200px"></textarea>
 
-        <input type="submit" value="Send">
-
+        <a onclick="contactForm.submit()">
+            Send
+            <i class="fa fa-paper-plane"></i>
+        </a>
     </form>
 </div>
 
@@ -31,20 +33,5 @@
         /* Bottom margin */
         resize: vertical
             /* Allow the user to vertically resize the textarea (not horizontally) */
-    }
-
-    /* Style the submit button with a specific background color etc */
-    .contact input[type=submit] {
-        background-color: #50b6d1;
-        color: white;
-        padding: 12px 20px;
-        border: none;
-        border-radius: 4px;
-        cursor: pointer;
-    }
-
-    /* When moving the mouse over the submit button, add a darker green color */
-    .contact input[type=submit]:hover {
-        background-color: #000000;
     }
 </style>
