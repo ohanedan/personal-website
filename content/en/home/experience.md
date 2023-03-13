@@ -3,8 +3,9 @@ title: "Experience"
 weight: 10
 ---
 
-***Junior Software Developer***      
-P.I. WORKS, May 2021 - Current 
+***Software Developer*** Mar 2023 - Now      
+***Junior Software Developer*** May 2021 - Mar 2023      
+P.I. WORKS
 
 ***Software Engineer***      
 SIBERUZAY TEKNOLOJILERI, February 2020 - April 2021     
