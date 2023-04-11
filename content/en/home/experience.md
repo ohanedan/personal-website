@@ -4,10 +4,10 @@ weight: 10
 ---
 
 ***Software Developer***      
-P.I. WORKS, Mar 2023 - Now  
+P.I. WORKS, Jan 2023 - Now  
 
 ***Junior Software Developer***       
-P.I. WORKS, May 2021 - Mar 2023
+P.I. WORKS, May 2021 - Jan 2023
 
 ***Software Engineer***      
 SIBERUZAY TEKNOLOJILERI, February 2020 - April 2021     
